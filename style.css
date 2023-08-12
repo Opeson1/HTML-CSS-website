@@ -1,0 +1,19 @@
+@media(min-width:768px){
+    .news-input{
+        width:50%;
+    }
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+body{
+    scroll-behavior: smooth;
+}
+img.ope{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
